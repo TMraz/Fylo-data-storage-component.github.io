@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/TMraz/Testimonials-grid-section.github.io)
+- [Solution URL](https://github.com/TMraz/Fylo-data-storage-component.github.io)
 
-- [Live Site URL](https://tmraz.github.io/Testimonials-grid-section.github.io/)
+- [Live Site URL](https://tmraz.github.io/Fylo-data-storage-component.github.io/)
 
 ## My process
 
